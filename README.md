@@ -128,3 +128,6 @@ This project is open-source and free to use.
 ---
 
 Made with Flutter 💙
+### 👨‍💻 Made by
+**Ebram Wagdy**  
+[GitHub](https://github.com/EbramWagdy1)
